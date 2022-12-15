@@ -31,3 +31,14 @@ print(valorNome[5])  # este e o vetor index ele sempre vai iniciar do 0
 print(valorNome.index('xa'))  # aqui ele aponta onde começa o xa do vertor
 print(len(valorNome))  # conta o tamanho maximo do campo
 print(valorNome.count('a' or 'A'))  # quantos A existem
+
+
+#Number
+
+print (2)
+
+print (-9)
+
+print (2.04500)
+
+
