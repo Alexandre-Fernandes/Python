@@ -63,3 +63,5 @@ print(min(2, 9))
 print(max(2, 9))
 
 print(pow(2, 9))  # Potencia 2 elevado a 9
+
+#IMPUT
