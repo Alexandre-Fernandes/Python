@@ -1,5 +1,7 @@
+# primeiro contato com o Python comandos Basicos#
+
+# Codigo Print#
 print('Olá Mundo!')
 nome = 'Alex'
 print(nome)
-
-print(2+2)
+# Posso usar aspas simples ou duplas para printa#
