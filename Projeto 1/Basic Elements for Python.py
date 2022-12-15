@@ -95,7 +95,7 @@ print(friends[0])  # ver quem esta na posição do index
 friends.extend(numerosF)
 friends.append('layon')  # colocar ele no final da fila
 # Podemos escolher a posição do layon
-friends.insert(3, layon)
+friends.insert(3, 'layon')
 # removendo o Moloise da lista
 friends.removendo('Moloise')
 # removendo atraves do index
