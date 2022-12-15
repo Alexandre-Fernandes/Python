@@ -103,5 +103,25 @@ friends.pop(1)  # dai remove o Moloise
 # Verificar se existe o dado na lista
 print(friends.index('Felipe'))
 # Função Organizar a lista
-friend.sort()
+friends.sort()
 print(friends)
+
+
+#
+#
+#
+#
+#
+#
+# IF Stantements
+# decisões
+
+acordei_antes_9 = True
+fome = False
+
+if acordei_antes_9 and fome:
+    print('Hora de fazer o Cafe da manhã')
+elif acordei_antes_9 and not(fome):
+    print('Hora de fazer uma corrida')
+else:
+    print('Hora de Fazer o Almoço')
