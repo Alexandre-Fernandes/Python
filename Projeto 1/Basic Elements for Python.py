@@ -64,13 +64,44 @@ print(max(2, 9))
 
 print(pow(2, 9))  # Potencia 2 elevado a 9
 
-#IMPUT
-#capturar dados do usuário
+# IMPUT
+# capturar dados do usuário
 nomeimp = input('Digite o seu nome: ')
 idadeimp = input('Digite a sua idade: ')
-print('Olá ' + nomeimp +'!' + 'Hoje Voce tem ' + idadeimp + ' anos de idade')
+print('Olá ' + nomeimp + '!' + 'Hoje Voce tem ' + idadeimp + ' anos de idade')
 
+#
+#
+#
+#
+#
+# LIST
+amigos = ['Thiago', 'Moloise', 'Felipe', 'Richard', 'Cris']
+print(amigos[3])
+print(amigos[-4])  # Puxar a lista ao contrario
+# encontrar os nomes da lista 1 até o 5 (O quinto não entra na lista)
+print(amigos[1:5])
+# Manipulando os intes dentro da lista sem precisar alterara
+amigos[1] = 'Joao'
+print(amigos)
 
+# funcoes dentro da List
+# ListFunctions
 
-
-
+friends = ['Thiago', 'Moloise', 'Felipe', 'Richard', 'Cris']
+numerosF = [3, 5, 4, 7, 9]
+print(friends[0])  # ver quem esta na posição do index
+# isso serve para colocar duas listas em um resultado so
+friends.extend(numerosF)
+friends.append('layon')  # colocar ele no final da fila
+# Podemos escolher a posição do layon
+friends.insert(3, layon)
+# removendo o Moloise da lista
+friends.removendo('Moloise')
+# removendo atraves do index
+friends.pop(1)  # dai remove o Moloise
+# Verificar se existe o dado na lista
+print(friends.index('Felipe'))
+# Função Organizar a lista
+friend.sort()
+print(friends)
