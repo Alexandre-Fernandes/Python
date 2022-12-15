@@ -24,3 +24,6 @@ elif imc >= 41:
     print('Obesidade Grau Morbida \n Seu imc e de: ' + str(imc) )
 else:
     print('Nao conseguimos proceder no calculo favor CONTATAR O ADM DO SISTAMA')
+    
+    
+   #adiciona mais funcoes ae
