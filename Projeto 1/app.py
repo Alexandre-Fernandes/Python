@@ -65,3 +65,12 @@ print(max(2, 9))
 print(pow(2, 9))  # Potencia 2 elevado a 9
 
 #IMPUT
+#capturar dados do usuário
+nomeimp = input('Digite o seu nome: ')
+idadeimp = input('Digite a sua idade: ')
+print('Olá ' + nomeimp +'!' + 'Hoje Voce tem ' + idadeimp + ' anos de idade')
+
+
+
+
+
