@@ -1,5 +1,5 @@
-print ('Olá Mundo!')
+print('Olá Mundo!')
 nome = 'Alex'
 print(nome)
 
-print (2+2)
+print(2+2)
