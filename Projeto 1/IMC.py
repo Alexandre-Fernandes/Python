@@ -25,5 +25,5 @@ elif imc >= 41:
 else:
     print('Nao conseguimos proceder no calculo favor CONTATAR O ADM DO SISTAMA')
     
-    
+
    #adiciona mais funcoes ae
