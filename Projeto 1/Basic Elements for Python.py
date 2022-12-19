@@ -1,5 +1,6 @@
 # primeiro contato com o Python comandos Basicos#
-
+# Pode ser comentário multilinha """"""
+"""aspas"""
 # Codigo Print#
 print('Olá Mundo!')
 nome = 'Alex'
