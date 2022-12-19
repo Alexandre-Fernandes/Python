@@ -1,6 +1,7 @@
 # primeiro contato com o Python comandos Basicos#
 # Pode ser comentário multilinha """"""
-"""aspas"""
+"""aspas - e chamado de DOCstring e o interpretador do  Python 
+consegue oq está aqui dentro"""
 # Codigo Print#
 print('Olá Mundo!')
 nome = 'Alex'
